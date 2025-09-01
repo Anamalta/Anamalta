@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando minha 
  
  Git e GitHub
 
-# Objetivos
+ Objetivos
 
   Criar meus primeiros projetos simples
 
